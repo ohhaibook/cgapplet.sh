@@ -8,7 +8,11 @@ environment tested/developed on: xubuntu 18.04 de/wm: xfce4
 genmon script is for use with xfce4-panel genmon plugin
 
 just create a launcher with the path to cgapplet-connect and use following syntax
+
   cgapplet-connect (disconnect | country) (optional: city)
+  
   example: cgapplet-connect de frankfurt
+  
   or:      cgapplet-connect us
+  
   or:      cgapplet-connect disconnect
