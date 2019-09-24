@@ -1,5 +1,5 @@
 installDirectory="${0%/*}"
-settingsFile="$installDirectory/cyberghost-settings"
+settingsFile="$installDirectory/cgapplet-settings"
 
 getSettings () {
   . $settingsFile
