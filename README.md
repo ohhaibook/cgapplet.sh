@@ -1,5 +1,9 @@
-# cgapplet
-an applet for using the cli cyberghostvpn release with buttons/gui
+# cgapplet.sh
+
+THIS PROJECT IS DEPRECATED, PLEASE SEE (THE NEW CGAPPLET PROJECT)[https://github.com/ohhaibook/cgapplet]
+
+## info
+a set up shell scripts for using the cli cyberghostvpn release with buttons/gui
 
 this project is still needs heavy work, but feel free to take a look at my scripts.
 
